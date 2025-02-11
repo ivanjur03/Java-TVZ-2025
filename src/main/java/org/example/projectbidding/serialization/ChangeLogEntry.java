@@ -5,8 +5,7 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
 /**
- * Represents a log entry that tracks changes made to an entity.
- * <p>
+ * Represents a log entry that tracks changes made to an entity
  * This class stores details about the field that was changed, its old and new values,
  * the role of the user who made the change, and a timestamp.
  * Implements {@link Serializable} for persistence.
