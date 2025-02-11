@@ -21,7 +21,6 @@ public class HelloApplication extends Application implements Serializable {
 
     /**
      * Initializes and starts the JavaFX application.
-     * <p>
      * - Loads the initial login screen from the FXML file. <br>
      * - Sets the primary stage dimensions and title. <br>
      * - Displays the main stage.
